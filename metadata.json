@@ -1,0 +1,6 @@
+{
+  "name": "Tortilla Snacks Menu",
+  "description": "منيو إلكتروني تفاعلي لمطعم تورتيلا سناك مع إمكانية الطلب عبر الواتساب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
